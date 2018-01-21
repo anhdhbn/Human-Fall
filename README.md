@@ -23,7 +23,7 @@ Fall-detection（摔倒/跌倒检测）in the room
 
 #### Install on Linux
 
-First, make sure you have install python and opencv environment(p.s. if you do not have GPU support, change the first line and second line of Makefile to 0)
+First, make sure you have install python and opencv environment(p.s. if you do not have GPU support, change the first line and second line of Makefile  value from 1 to 0)
 
 
 Then, install this module :
