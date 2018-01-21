@@ -16,14 +16,14 @@ Fall-detection（摔倒/跌倒检测）in the room
 
 ### Requirements
 
-  * Python and opencv
+  * Python and opencv, 
   * Linux (Windows and Mac os are not officially supported, but should work)
 
 ### Installation Options:
 
 #### Install on Linux
 
-First, make sure you have install python and opencv environment
+First, make sure you have install python and opencv environment(p.s. if you do not have GPU support, change the first line and second line of Makefile to 0)
 
 
 Then, install this module :
