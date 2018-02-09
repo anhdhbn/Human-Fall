@@ -49,4 +49,4 @@ If you are having trouble with installation, you can Issue me!
 
 * Many, many thanks to [pjreddie](https://pjreddie.com/darknet/yolo/) for his Great work!
   
-# p.s. If libdarknet.so Error happened, you can alter the relative path for libdarknet.so in python/darknet.py to absolute path, if you have any questions,you can open a issue or send me a email.
+# p.s. If libdarknet.so Error happened, you can alter the relative path for libdarknet.so in python/darknet.py to absolute path, if you have any questions,you can open a issue or send me an email.
