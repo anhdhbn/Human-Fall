@@ -31,7 +31,7 @@ Then, install this module :
 ```bash
 git clone https://github.com/qiaoguan/Fall-detection
 cd Fall-detection
-make
+sudo make
 ```
 
 If you are having trouble with installation, you can Issue me!
