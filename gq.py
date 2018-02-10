@@ -36,7 +36,7 @@ def isFall(w,h):
         return False
 
 #open the input video file
-input_movie=cv2.VideoCapture('cs3.mp4')
+input_movie=cv2.VideoCapture('cs4.mp4')
 
 length = int(input_movie.get(cv2.cv.CV_CAP_PROP_FRAME_COUNT))
 
@@ -47,7 +47,7 @@ size = (int(input_movie.get(cv2.cv.CV_CAP_PROP_FRAME_WIDTH)),
         int(input_movie.get(cv2.cv.CV_CAP_PROP_FRAME_HEIGHT))) 
 
 #define the type of the output movie  
-output_movie = cv2.VideoWriter('out_cs3.avi', cv2.cv.CV_FOURCC('M', 'J', 'P', 'G'), fps, size)  
+output_movie = cv2.VideoWriter('out_cs4.avi', cv2.cv.CV_FOURCC('M', 'J', 'P', 'G'), fps, size)  
 #output_movie = cv2.VideoWriter('output_cs1.avi', -1, fps, size)
 
 # load network and weights
