@@ -5,7 +5,7 @@ Fall-detection（摔倒/跌倒检测）in the room
 
 
 ## Examples
-   we first detections humans in the room, then we use some simple ways to judge whether he or she is falling down.
+   we first detect humans in the room, then we use some simple ways to judge whether he or she is falling down.
 ![fall detection example](https://github.com/qiaoguan/Fall-detection/blob/master/demo.gif)
 
 ### fall-detection algorithms
