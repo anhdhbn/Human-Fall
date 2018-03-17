@@ -44,7 +44,7 @@ If you are having trouble with installation, you can Issue me!
   ```bash
   python gq.py
   ```
-### the speed is about 12fps using GPU
+### the speed is about 12fps using GPU(GTX 1080)
 ## Thanks
 
 * Many, many thanks to [pjreddie](https://pjreddie.com/darknet/yolo/) for his Great work!
