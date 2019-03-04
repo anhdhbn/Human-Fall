@@ -44,6 +44,7 @@ If you are having trouble with installation, you can Issue me!
   ```bash
   python gq.py
   ```
+  for opencv3 users, you can refer to this [code](https://github.com/qiaoguan/Fall-detection/pull/16/commits/01187a0c16e5ead6d1faeb2f47665fab9a1ba2da)
 ### the speed is about 12fps using GPU(GTX 1080)
 ## Thanks
 
